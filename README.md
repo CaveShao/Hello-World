@@ -4,5 +4,5 @@ My first repository
 
 
 
-1. 好
-2. yes
+1. 同事的本地仓库
+2. ​
